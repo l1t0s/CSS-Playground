@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Irish+Grover&display=swap');
+
+body {
+    background-color: rgba(95, 158, 160, 0.24);    
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: tomato;
+    font-family: 'Festive', cursive;
+    font-size: 2.5rem;
+}
+
+.main {
+    border: 2px solid black; width: 75%; margin: 0 auto;
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+
+.footer{
+    text-align: center;
+    font-family: 'Irish Grover', cursive;
+    font-size: 1.75rem;
+}
